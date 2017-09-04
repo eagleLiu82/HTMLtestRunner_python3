@@ -89,7 +89,7 @@ Version in 0.7.1
 
 # TODO: color stderr
 # TODO: simplify javascript using ,ore than 1 class in the class attribute?
-
+# modify by eagle 2017-9-4
 import datetime
 import io
 import sys
